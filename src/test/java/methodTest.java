@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 
-public class Method1Test {
+public class methodTest {
     @Test
     void testMethod1()
     {

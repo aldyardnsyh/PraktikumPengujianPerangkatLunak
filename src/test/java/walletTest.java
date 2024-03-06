@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class WalletTest {
+public class walletTest {
 
     @Test
     void testSetOwnerAndGetOwner() {
@@ -87,7 +87,7 @@ public class WalletTest {
                 "Test pass: No IllegalArgumentException is thrown");
     }
 
-//    @Test 
+//    @Test
 //    void testExceptionThrown() {
 //        Wallet wallet = new Wallet();
 //
